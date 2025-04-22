@@ -1,0 +1,21 @@
+sample_id,race,tissue_or_organ_of_origin,days_to_follow_up,age_at_diagnosis,disease_type,sex,primary_diagnosis,ethnicity,vital_status,molecular_analysis_method,gene_symbol,primary_site
+GSM4981413,Unknown,"Lung, NOS",Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,RNA Sequencing,Unknown,Bronchus and lung
+GSM990246,Unknown,"Lung, NOS",Unknown,68,Neuroepitheliomatous Neoplasms,male,"Small cell carcinoma, NOS",Unknown,Unknown,Microarray,Unknown,Bronchus and lung
+GSM8339783,Unknown,"Lung, NOS",Unknown,Unknown,Adenomas and Adenocarcinomas,Unknown,"Adenocarcinoma, NOS",Unknown,Unknown,RNA Sequencing,"KRAS,LKB1",Bronchus and lung
+GSM4386241,Unknown,Bone marrow,Unknown,58,Adenomas and Adenocarcinomas,male,"Adenocarcinoma, NOS",Unknown,Unknown,Microarray,Unknown,Hematopoietic and reticuloendothelial systems
+GSM6607454,Unknown,"Lung, NOS",Unknown,Unknown,"Neoplasms, NOS",Unknown,Non-small cell carcinoma,Unknown,Unknown,RNA Sequencing,AKR1B1,Bronchus and lung
+GSM4909696,Unknown,"Lung, NOS",1.033333333 months,60,Squamous Cell Neoplasms,male,"Squamous cell carcinoma, NOS",Unknown,Dead,RNA Sequencing,Unknown,Bronchus and lung
+GSM5914946,Unknown,"Lung, NOS",Unknown,63,Adenomas and Adenocarcinomas,male,"Adenocarcinoma, NOS",Unknown,Unknown,RNA Sequencing,Unknown,Bronchus and lung
+GSM2088547,Unknown,"Lung, NOS",Unknown,Unknown,Adenomas and Adenocarcinomas,Unknown,"Adenocarcinoma, NOS",Unknown,Unknown,Microarray,Unknown,Bronchus and lung
+GSM442125,Unknown,"Lung, NOS",20.43531828 months,63,Squamous Cell Neoplasms,male,"Squamous cell carcinoma, NOS",Unknown,Dead,Microarray,Unknown,Bronchus and lung
+GSM745657,Unknown,"Lung, NOS",Unknown,70,Squamous Cell Neoplasms,male,"Squamous cell carcinoma, NOS",Unknown,Unknown,Microarray,Unknown,Bronchus and lung
+GSM1558116,Unknown,"Lung, NOS",Unknown,56,Adenomas and Adenocarcinomas,male,"Adenocarcinoma, NOS",Unknown,Unknown,Microarray,Unknown,Bronchus and lung
+GSM5225242,Unknown,"Lung, NOS",Unknown,Unknown,"Neoplasms, NOS",Unknown,Non-small cell carcinoma,Unknown,Unknown,RNA Sequencing,Unknown,Bronchus and lung
+GSM4429476,Unknown,"Lung, NOS",Unknown,58,Adenomas and Adenocarcinomas,female,"Adenocarcinoma, NOS",Unknown,Unknown,Microarray,EGFR,Bronchus and lung
+GSM1145175,Unknown,"Lung, NOS",Unknown,72,"Neoplasms, NOS",female,Non-small cell carcinoma,Unknown,Dead,Microarray,Unknown,Bronchus and lung
+GSM6928120,Unknown,"Lung, NOS",Unknown,Unknown,"Neoplasms, NOS",Unknown,"Carcinoma, NOS",Unknown,Unknown,RNA Sequencing,Unknown,Bronchus and lung
+GSM8140936,Unknown,"Lung, NOS",299 days,84,Neuroepitheliomatous Neoplasms,male,"Small cell carcinoma, NOS",Unknown,Dead,"Sequencing, NOS",Unknown,Bronchus and lung
+GSM6134662,Unknown,"Lung, NOS",Unknown,Unknown,Adenomas and Adenocarcinomas,Unknown,"Adenocarcinoma, NOS",Unknown,Unknown,"Sequencing, NOS",SMARCA4,Bronchus and lung
+GSM308238,Unknown,"Lung, NOS",106 months,51,Squamous Cell Neoplasms,male,"Squamous cell carcinoma, NOS",Unknown,Alive,Comparative Genomic Hybridization,Unknown,Bronchus and lung
+GSM7708781,black or african american,Blood,Unknown,65,Adenomas and Adenocarcinomas,female,"Adenocarcinoma, NOS",Unknown,Unknown,Other,Unknown,Hematopoietic and reticuloendothelial systems
+GSM1546559,Unknown,"Lung, NOS",Unknown,Unknown,"Neoplasms, NOS",Unknown,Non-small cell carcinoma,Unknown,Unknown,"Sequencing, NOS",Unknown,Bronchus and lung

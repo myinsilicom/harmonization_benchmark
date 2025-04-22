@@ -1,0 +1,21 @@
+sample_id,race,tissue_or_organ_of_origin,days_to_follow_up,age_at_diagnosis,disease_type,sex,primary_diagnosis,vital_status,molecular_analysis_method,gene_symbol,primary_site
+GSM6928120,unknown,"Lung, NOS",unknown,unknown,Adenomas and Adenocarcinomas,unknown,"Adenocarcinoma, NOS",unknown,RNA Sequencing,unknown,Bronchus and lung
+GSM1546559,unknown,"Lung, NOS",unknown,unknown,"Neoplasms, NOS",unknown,"Carcinoma, NOS",unknown,ChIP-Seq,unknown,Bronchus and lung
+GSM442125,unknown,"Lung, NOS",21.02669405 months,63.0,Squamous Cell Neoplasms,male,"Squamous cell carcinoma, NOS",Dead,Microarray,unknown,Bronchus and lung
+GSM5225242,unknown,"Lung, NOS",unknown,unknown,"Neoplasms, NOS",unknown,"Carcinoma, NOS",unknown,RNA Sequencing,unknown,Bronchus and lung
+GSM4429476,unknown,"Lung, NOS",unknown,58.0,Adenomas and Adenocarcinomas,female,"Adenocarcinoma, NOS",unknown,Microarray,EGFR,Bronchus and lung
+GSM4981413,unknown,"Lung, NOS",unknown,unknown,"Neoplasms, NOS",unknown,"Carcinoma, NOS",unknown,RNA Sequencing,unknown,Bronchus and lung
+GSM6134662,unknown,"Lung, NOS",unknown,unknown,Adenomas and Adenocarcinomas,unknown,"Adenocarcinoma, NOS",unknown,ATAC-seq,SMARCA4,Bronchus and lung
+GSM8140936,unknown,"Lung, NOS",unknown,84.0,"Neoplasms, NOS",male,"Small cell carcinoma, NOS",Dead,"Sequencing, NOS",unknown,Bronchus and lung
+GSM308238,unknown,"Lung, NOS",106 months,51.0,Squamous Cell Neoplasms,male,"Squamous cell carcinoma, NOS",Alive,Microarray,unknown,Bronchus and lung
+GSM7708781,black or african american,"Lung, NOS",unknown,65.0,Adenomas and Adenocarcinomas,female,"Adenocarcinoma, NOS",unknown,Microarray,unknown,Bronchus and lung
+GSM745657,unknown,"Lung, NOS",unknown,70.0,Squamous Cell Neoplasms,male,"Squamous cell carcinoma, NOS",unknown,Microarray,unknown,Bronchus and lung
+GSM1145175,unknown,"Lung, NOS",unknown,72.0,"Neoplasms, NOS",female,"Carcinoma, NOS",Dead,Microarray,unknown,Bronchus and lung
+GSM2088547,unknown,"Lung, NOS",unknown,unknown,Adenomas and Adenocarcinomas,unknown,"Adenocarcinoma, NOS",unknown,Microarray,unknown,Bronchus and lung
+GSM4909696,unknown,"Lung, NOS",unknown,60.0,"Neoplasms, NOS",male,"Carcinoma, NOS",Dead,RNA Sequencing,unknown,Bronchus and lung
+GSM6607454,unknown,"Lung, NOS",unknown,unknown,"Neoplasms, NOS",unknown,"Carcinoma, NOS",unknown,RNA Sequencing,AKR1B1,Bronchus and lung
+GSM1558116,unknown,"Lung, NOS",unknown,56.0,Adenomas and Adenocarcinomas,male,"Adenocarcinoma, NOS",unknown,Microarray,unknown,Bronchus and lung
+GSM8339783,unknown,"Lung, NOS",unknown,unknown,Adenomas and Adenocarcinomas,unknown,"Adenocarcinoma, NOS",unknown,RNA Sequencing,unknown,Bronchus and lung
+GSM990246,unknown,"Lung, NOS",unknown,68.0,Adenomas and Adenocarcinomas,male,"Adenocarcinoma, NOS",unknown,Microarray,unknown,Bronchus and lung
+GSM5914946,unknown,"Lung, NOS",unknown,63.0,Adenomas and Adenocarcinomas,male,"Adenocarcinoma, NOS",unknown,RNA Sequencing,unknown,Bronchus and lung
+GSM4386241,unknown,"Lung, NOS",unknown,58.0,Adenomas and Adenocarcinomas,male,"Adenocarcinoma, NOS",unknown,Microarray,unknown,Bronchus and lung

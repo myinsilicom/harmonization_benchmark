@@ -1,0 +1,1236 @@
+{
+    "GSM6928120": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "cell line: A549"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "cell line: A549"
+        },
+        "primary_diagnosis": {
+            "val": "Adenocarcinoma, NOS",
+            "src": "cell type: lung carcinoma cell"
+        },
+        "disease_type": {
+            "val": "Adenomas and Adenocarcinomas",
+            "src": "cell type: lung carcinoma cell"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: cancer cell"
+        },
+        "cell_line": {
+            "val": "A549",
+            "src": "cell line: A549"
+        },
+        "cell_type": {
+            "val": "lung carcinoma cell",
+            "src": "cell type: lung carcinoma cell"
+        },
+        "treatment_type": {
+            "val": "Unknown",
+            "src": "treatment: shikonin"
+        },
+        "instrument_model": {
+            "val": "Illumina HiSeq 2500",
+            "src": "instrument_model: Illumina HiSeq 2500"
+        },
+        "library_strategy": {
+            "val": "RNA-Seq",
+            "src": "library_strategy: RNA-Seq"
+        },
+        "molecular_analysis_method": {
+            "val": "RNA Sequencing",
+            "src": "library_strategy: RNA-Seq"
+        }
+    },
+    "GSM1546559": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "cell type: lung cancer cell"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "cell type: lung cancer cell"
+        },
+        "primary_diagnosis": {
+            "val": "Carcinoma, NOS",
+            "src": "cell type: lung cancer cell"
+        },
+        "disease_type": {
+            "val": "Neoplasms, NOS",
+            "src": "cell type: lung cancer cell"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: lung cancer cell"
+        },
+        "cell_line": {
+            "val": "PC9R",
+            "src": "cell line: PC9R"
+        },
+        "cell_type": {
+            "val": "lung cancer cell",
+            "src": "cell type: lung cancer cell"
+        },
+        "treatment_type": {
+            "val": "Unknown",
+            "src": "treatment_protocol_ch1: PC9R were screened from PC9 treated by gefitinib for 1-2 weeks"
+        },
+        "instrument_model": {
+            "val": "Illumina HiSeq 2000",
+            "src": "instrument_model: Illumina HiSeq 2000"
+        },
+        "library_strategy": {
+            "val": "ChIP-Seq",
+            "src": "library_strategy: ChIP-Seq"
+        },
+        "molecular_analysis_method": {
+            "val": "ChIP-Seq",
+            "src": "library_strategy: ChIP-Seq"
+        }
+    },
+    "GSM442125": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "age_at_diagnosis": {
+            "val": 63,
+            "src": "age: 63"
+        },
+        "vital_status": {
+            "val": "Dead",
+            "src": "survival_status(0='alive',1='dead'): 1"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "source_name_ch1: lung squamous cell carcinoma tumor RNA"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "source_name_ch1: lung squamous cell carcinoma tumor RNA"
+        },
+        "primary_diagnosis": {
+            "val": "Squamous cell carcinoma, NOS",
+            "src": "source_name_ch1: lung squamous cell carcinoma tumor RNA"
+        },
+        "disease_type": {
+            "val": "Squamous Cell Neoplasms",
+            "src": "source_name_ch1: lung squamous cell carcinoma tumor RNA"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: lung squamous cell carcinoma tumor RNA"
+        },
+        "progression_or_recurrence": {
+            "val": "yes",
+            "src": "relapse_status(0='no relapse',1='relapse'): 1"
+        },
+        "days_to_follow_up": {
+            "val": "21.02669405 months",
+            "src": "survival_months: 21.02669405"
+        },
+        "days_to_death": {
+            "val": "21.02669405 months",
+            "src": "survival_months: 21.02669405"
+        },
+        "tobacco_smoking_status": {
+            "val": "Current Smoker",
+            "src": "smoking_status(0=nonsmoker,1=smoker): 1"
+        },
+        "cancer_stage": {
+            "val": "Stage IIb",
+            "src": "stage: IIb"
+        },
+        "instrument_model": {
+            "val": "Microarray",
+            "src": "platform_id: GPL9053"
+        },
+        "library_strategy": {
+            "val": "Microarray",
+            "src": "platform_id: GPL9053"
+        },
+        "molecular_analysis_method": {
+            "val": "Microarray",
+            "src": "platform_id: GPL9053"
+        },
+        "sex": {
+            "val": "male",
+            "src": "sex: Male"
+        }
+    },
+    "GSM5225242": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "tissue: lung"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "tissue: lung"
+        },
+        "primary_diagnosis": {
+            "val": "Carcinoma, NOS",
+            "src": "patient diagnosis: lung cancer"
+        },
+        "disease_type": {
+            "val": "Neoplasms, NOS",
+            "src": "patient diagnosis: lung cancer"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "tissue disease state: Primary lung tumor"
+        },
+        "instrument_model": {
+            "val": "Illumina HiSeq 4000",
+            "src": "instrument_model: Illumina HiSeq 4000"
+        },
+        "library_strategy": {
+            "val": "RNA-Seq",
+            "src": "library_strategy: RNA-Seq"
+        },
+        "molecular_analysis_method": {
+            "val": "RNA Sequencing",
+            "src": "library_strategy: RNA-Seq"
+        }
+    },
+    "GSM4429476": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "age_at_diagnosis": {
+            "val": 58,
+            "src": "age: 58"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "tissue: lung adenocarcinoma"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "tissue: lung adenocarcinoma"
+        },
+        "primary_diagnosis": {
+            "val": "Adenocarcinoma, NOS",
+            "src": "tissue: lung adenocarcinoma"
+        },
+        "disease_type": {
+            "val": "Adenomas and Adenocarcinomas",
+            "src": "tissue: lung adenocarcinoma"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: genomic DNA from lung adenocarcinoma"
+        },
+        "gene_symbol": {
+            "val": "EGFR",
+            "src": "egfr_type: L858R"
+        },
+        "tobacco_smoking_status": {
+            "val": "Lifelong Non-Smoker",
+            "src": "smoking: Never-smoker"
+        },
+        "treatment_type": {
+            "val": "Unknown",
+            "src": "tki_response: PR"
+        },
+        "treatment_outcome": {
+            "val": "Partial Response",
+            "src": "tki_response: PR"
+        },
+        "cancer_stage": {
+            "val": "Stage 7",
+            "src": "Stage: 7"
+        },
+        "instrument_model": {
+            "val": "Microarray",
+            "src": "platform_id: GPL13534"
+        },
+        "library_strategy": {
+            "val": "Microarray",
+            "src": "platform_id: GPL13534"
+        },
+        "molecular_analysis_method": {
+            "val": "Microarray",
+            "src": "platform_id: GPL13534"
+        },
+        "sex": {
+            "val": "female",
+            "src": "gender: Female"
+        }
+    },
+    "GSM4981413": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "cell line: H522"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "cell line: H522"
+        },
+        "primary_diagnosis": {
+            "val": "Carcinoma, NOS",
+            "src": "cell line: H522"
+        },
+        "disease_type": {
+            "val": "Neoplasms, NOS",
+            "src": "cell line: H522"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: H522"
+        },
+        "cell_line": {
+            "val": "H522",
+            "src": "cell line: H522"
+        },
+        "treatment_type": {
+            "val": "Unknown",
+            "src": "treatment: SARS-CoV-2"
+        },
+        "instrument_model": {
+            "val": "Illumina NextSeq 500",
+            "src": "instrument_model: Illumina NextSeq 500"
+        },
+        "library_strategy": {
+            "val": "RNA-Seq",
+            "src": "library_strategy: RNA-Seq"
+        },
+        "molecular_analysis_method": {
+            "val": "RNA Sequencing",
+            "src": "library_strategy: RNA-Seq"
+        }
+    },
+    "GSM6134662": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "tissue: Lung tumor"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "tissue: Lung tumor"
+        },
+        "primary_diagnosis": {
+            "val": "Adenocarcinoma, NOS",
+            "src": "cell type: lung adenocarcinoma cells"
+        },
+        "disease_type": {
+            "val": "Adenomas and Adenocarcinomas",
+            "src": "cell type: lung adenocarcinoma cells"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: Lung tumor"
+        },
+        "cell_line": {
+            "val": "PC9",
+            "src": "cell line: PC9"
+        },
+        "cell_type": {
+            "val": "lung adenocarcinoma cells",
+            "src": "cell type: lung adenocarcinoma cells"
+        },
+        "gene_symbol": {
+            "val": "SMARCA4",
+            "src": "genotype: SMARCA4 KD"
+        },
+        "treatment_type": {
+            "val": "Unknown",
+            "src": "treatment: untreated"
+        },
+        "instrument_model": {
+            "val": "Illumina NovaSeq 6000",
+            "src": "instrument_model: Illumina NovaSeq 6000"
+        },
+        "library_strategy": {
+            "val": "ATAC-seq",
+            "src": "library_strategy: ATAC-seq"
+        },
+        "molecular_analysis_method": {
+            "val": "ATAC-seq",
+            "src": "library_strategy: ATAC-seq"
+        }
+    },
+    "GSM8140936": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "age_at_diagnosis": {
+            "val": 84,
+            "src": "age: 84"
+        },
+        "vital_status": {
+            "val": "Dead",
+            "src": "death: Yes"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "tissue: Lung"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "tissue: Lung"
+        },
+        "primary_diagnosis": {
+            "val": "Small cell carcinoma, NOS",
+            "src": "disease: ES-SCLC"
+        },
+        "disease_type": {
+            "val": "Neoplasms, NOS",
+            "src": "disease: ES-SCLC"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: Lung"
+        },
+        "progression_or_recurrence": {
+            "val": "yes",
+            "src": "disease progression or death: Yes"
+        },
+        "tobacco_smoking_status": {
+            "val": "Former smoker",
+            "src": "smoking status: Former smoker"
+        },
+        "treatment_type": {
+            "val": "Chemotherapy",
+            "src": "treatment: durvalumab + carboplatin/cisplatin + etoposide"
+        },
+        "treatment_outcome": {
+            "val": "Complete Response",
+            "src": "best recist response to treatment: Complete response"
+        },
+        "instrument_model": {
+            "val": "NextSeq 2000",
+            "src": "instrument_model: NextSeq 2000"
+        },
+        "library_strategy": {
+            "val": "OTHER",
+            "src": "library_strategy: OTHER"
+        },
+        "molecular_analysis_method": {
+            "val": "Sequencing, NOS",
+            "src": "library_strategy: OTHER"
+        },
+        "sex": {
+            "val": "male",
+            "src": "Sex: Male"
+        }
+    },
+    "GSM308238": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "age_at_diagnosis": {
+            "val": 51,
+            "src": "Age at time of surgery: 51"
+        },
+        "vital_status": {
+            "val": "Alive",
+            "src": "Dead/Alive: alive"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "Tissue type: Human lung tumor (frozen)"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "Tissue type: Human lung tumor (frozen)"
+        },
+        "primary_diagnosis": {
+            "val": "Squamous cell carcinoma, NOS",
+            "src": "Tumor type: Squamous cell lung carcinoma (SCC)"
+        },
+        "disease_type": {
+            "val": "Squamous Cell Neoplasms",
+            "src": "Tumor type: Squamous cell lung carcinoma (SCC)"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "Tissue type: Human lung tumor (frozen)"
+        },
+        "progression_or_recurrence": {
+            "val": "no",
+            "src": "Metastases: no"
+        },
+        "days_to_follow_up": {
+            "val": "106 months",
+            "src": "Survival as from SCC resection (months): 106"
+        },
+        "tobacco_smoking_status": {
+            "val": "Current Smoker",
+            "src": "Packyears: 28"
+        },
+        "cancer_stage": {
+            "val": "Stage IB",
+            "src": "Tumor stage: IB"
+        },
+        "instrument_model": {
+            "val": "Microarray",
+            "src": "platform_id: GPL7096"
+        },
+        "library_strategy": {
+            "val": "Microarray",
+            "src": "platform_id: GPL7096"
+        },
+        "molecular_analysis_method": {
+            "val": "Microarray",
+            "src": "platform_id: GPL7096"
+        },
+        "sex": {
+            "val": "male",
+            "src": "Gender: Male"
+        }
+    },
+    "GSM7708781": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "age_at_diagnosis": {
+            "val": 65,
+            "src": "age: 65"
+        },
+        "race": {
+            "val": "black or african american",
+            "src": "race: Black"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "disease: Lung Cancer patient with Adenocarcinoma"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "disease: Lung Cancer patient with Adenocarcinoma"
+        },
+        "primary_diagnosis": {
+            "val": "Adenocarcinoma, NOS",
+            "src": "disease: Lung Cancer patient with Adenocarcinoma"
+        },
+        "disease_type": {
+            "val": "Adenomas and Adenocarcinomas",
+            "src": "disease: Lung Cancer patient with Adenocarcinoma"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: Plasma Extracellular Vesicles"
+        },
+        "cancer_stage": {
+            "val": "Stage II",
+            "src": "Stage: II"
+        },
+        "instrument_model": {
+            "val": "Microarray",
+            "src": "platform_id: GPL33669"
+        },
+        "library_strategy": {
+            "val": "Microarray",
+            "src": "platform_id: GPL33669"
+        },
+        "molecular_analysis_method": {
+            "val": "Microarray",
+            "src": "platform_id: GPL33669"
+        },
+        "sex": {
+            "val": "female",
+            "src": "Sex: Female"
+        }
+    },
+    "GSM745657": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "age_at_diagnosis": {
+            "val": 70,
+            "src": "age (y): 70"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "tissue: primary lung cancer"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "tissue: primary lung cancer"
+        },
+        "primary_diagnosis": {
+            "val": "Squamous cell carcinoma, NOS",
+            "src": "histopathology: Squamous cell carcinoma"
+        },
+        "disease_type": {
+            "val": "Squamous Cell Neoplasms",
+            "src": "histopathology: Squamous cell carcinoma"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: primary lung cancer"
+        },
+        "tobacco_smoking_status": {
+            "val": "Current Smoker",
+            "src": "smoking: YES"
+        },
+        "instrument_model": {
+            "val": "Microarray",
+            "src": "scan_protocol: AFFYMETRIX, 428 Array"
+        },
+        "library_strategy": {
+            "val": "Microarray",
+            "src": "type: RNA"
+        },
+        "molecular_analysis_method": {
+            "val": "Microarray",
+            "src": "type: RNA"
+        },
+        "library_name": {
+            "val": "GSM745657",
+            "src": "geo_accession: GSM745657"
+        },
+        "platform_id": {
+            "val": "GPL9365",
+            "src": "platform_id: GPL9365"
+        },
+        "GEO_series_id": {
+            "val": [
+                "GSE30118"
+            ],
+            "src": "series_id: GSE30118"
+        },
+        "sex": {
+            "val": "male",
+            "src": "gender: Male"
+        }
+    },
+    "GSM1145175": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "age_at_diagnosis": {
+            "val": 72,
+            "src": "age: 72"
+        },
+        "vital_status": {
+            "val": "Dead",
+            "src": "dead/alive as of 6/11: yes"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "source_name_ch1: NSCLC tumor"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "source_name_ch1: NSCLC tumor"
+        },
+        "primary_diagnosis": {
+            "val": "Carcinoma, NOS",
+            "src": "source_name_ch1: NSCLC tumor"
+        },
+        "disease_type": {
+            "val": "Neoplasms, NOS",
+            "src": "source_name_ch1: NSCLC tumor"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: NSCLC tumor"
+        },
+        "days_to_death": {
+            "val": "42.05338809 months",
+            "src": "overall survival (months) as of 6/11: 42.05338809"
+        },
+        "tobacco_smoking_status": {
+            "val": "Current Reformed Smoker for < or = 15 yrs",
+            "src": "smoking status at enrollment: former"
+        },
+        "prior_treatment": {
+            "val": "Yes",
+            "src": "adjuvant chemotherapy: yes"
+        },
+        "treatment_type": {
+            "val": "Chemotherapy",
+            "src": "adjuvant chemotherapy: yes"
+        },
+        "cancer_stage": {
+            "val": "Stage IB",
+            "src": "tnm 7th ed stage: IB"
+        },
+        "instrument_model": {
+            "val": "Microarray",
+            "src": "scan_protocol: Standard Illumina scanning protocol"
+        },
+        "library_strategy": {
+            "val": "Microarray",
+            "src": "type: RNA"
+        },
+        "molecular_analysis_method": {
+            "val": "Microarray",
+            "src": "type: RNA"
+        },
+        "library_name": {
+            "val": "GSM1145175",
+            "src": "geo_accession: GSM1145175"
+        },
+        "platform_id": {
+            "val": "GPL14951",
+            "src": "platform_id: GPL14951"
+        },
+        "GEO_series_id": {
+            "val": [
+                "GSE47115"
+            ],
+            "src": "series_id: GSE47115"
+        },
+        "sex": {
+            "val": "female",
+            "src": "gender: female"
+        }
+    },
+    "GSM2088547": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "origin: lung adenocarcinoma"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "origin: lung adenocarcinoma"
+        },
+        "primary_diagnosis": {
+            "val": "Adenocarcinoma, NOS",
+            "src": "origin: lung adenocarcinoma"
+        },
+        "disease_type": {
+            "val": "Adenomas and Adenocarcinomas",
+            "src": "origin: lung adenocarcinoma"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: H1792 trametinib-treated"
+        },
+        "cell_line": {
+            "val": "H1792",
+            "src": "cell line: H1792"
+        },
+        "cell_type": {
+            "val": "Human lung cancer cell line",
+            "src": "cell type: Human lung cancer cell line"
+        },
+        "instrument_model": {
+            "val": "Microarray",
+            "src": "scan_protocol: Agilent DNA Microarray Scanner"
+        },
+        "library_strategy": {
+            "val": "Microarray",
+            "src": "type: RNA"
+        },
+        "molecular_analysis_method": {
+            "val": "Microarray",
+            "src": "type: RNA"
+        },
+        "library_name": {
+            "val": "GSM2088547",
+            "src": "geo_accession: GSM2088547"
+        },
+        "platform_id": {
+            "val": "GPL17077",
+            "src": "platform_id: GPL17077"
+        },
+        "GEO_series_id": {
+            "val": [
+                "GSE79235"
+            ],
+            "src": "series_id: GSE79235"
+        }
+    },
+    "GSM4909696": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "age_at_diagnosis": {
+            "val": 60,
+            "src": "age: 60"
+        },
+        "vital_status": {
+            "val": "Dead",
+            "src": "os (event): 1"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "source_name_ch1: formalin-fixed paraffin embedded biopsies or archival surgically resected specimens collected prior to treatment initiation"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "source_name_ch1: formalin-fixed paraffin embedded biopsies or archival surgically resected specimens collected prior to treatment initiation"
+        },
+        "primary_diagnosis": {
+            "val": "Carcinoma, NOS",
+            "src": "histology: SC"
+        },
+        "disease_type": {
+            "val": "Neoplasms, NOS",
+            "src": "histology: SC"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: formalin-fixed paraffin embedded biopsies or archival surgically resected specimens collected prior to treatment initiation"
+        },
+        "days_to_death": {
+            "val": "1.033333333 months",
+            "src": "os (month): 1.033333333"
+        },
+        "cancer_stage": {
+            "val": "Stage IV",
+            "src": "Stage: IV"
+        },
+        "instrument_model": {
+            "val": "Illumina NextSeq 500",
+            "src": "instrument_model: Illumina NextSeq 500"
+        },
+        "library_strategy": {
+            "val": "RNA-Seq",
+            "src": "library_strategy: RNA-Seq"
+        },
+        "molecular_analysis_method": {
+            "val": "RNA Sequencing",
+            "src": "library_strategy: RNA-Seq"
+        },
+        "library_name": {
+            "val": "GSM4909696",
+            "src": "geo_accession: GSM4909696"
+        },
+        "platform_id": {
+            "val": "GPL18573",
+            "src": "platform_id: GPL18573"
+        },
+        "GEO_series_id": {
+            "val": [
+                "GSE161537"
+            ],
+            "src": "series_id: GSE161537"
+        },
+        "sex": {
+            "val": "male",
+            "src": "Sex: Male"
+        }
+    },
+    "GSM6607454": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "source_name_ch1: A549"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "source_name_ch1: A549"
+        },
+        "primary_diagnosis": {
+            "val": "Carcinoma, NOS",
+            "src": "cell type: NSCLC cell line"
+        },
+        "disease_type": {
+            "val": "Neoplasms, NOS",
+            "src": "cell type: NSCLC cell line"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: A549"
+        },
+        "cell_line": {
+            "val": "A549",
+            "src": "cell line: A549"
+        },
+        "cell_type": {
+            "val": "NSCLC cell line",
+            "src": "cell type: NSCLC cell line"
+        },
+        "gene_symbol": {
+            "val": "AKR1B1",
+            "src": "genotype: AKR1B1 knockdown"
+        },
+        "instrument_model": {
+            "val": "Illumina NextSeq 500",
+            "src": "instrument_model: Illumina NextSeq 500"
+        },
+        "library_strategy": {
+            "val": "RNA-Seq",
+            "src": "library_strategy: RNA-Seq"
+        },
+        "molecular_analysis_method": {
+            "val": "RNA Sequencing",
+            "src": "library_strategy: RNA-Seq"
+        },
+        "library_name": {
+            "val": "GSM6607454",
+            "src": "geo_accession: GSM6607454"
+        },
+        "platform_id": {
+            "val": "GPL18573",
+            "src": "platform_id: GPL18573"
+        },
+        "GEO_series_id": {
+            "val": [
+                "GSE214505"
+            ],
+            "src": "series_id: GSE214505"
+        }
+    },
+    "GSM1558116": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "age_at_diagnosis": {
+            "val": 56,
+            "src": "age: 56"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "source_name_ch1: Lung cancer cell line"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "source_name_ch1: Lung cancer cell line"
+        },
+        "primary_diagnosis": {
+            "val": "Adenocarcinoma, NOS",
+            "src": "histology: adenocarcinoma"
+        },
+        "disease_type": {
+            "val": "Adenomas and Adenocarcinomas",
+            "src": "histology: adenocarcinoma"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: Lung cancer cell line"
+        },
+        "cell_line": {
+            "val": "H647",
+            "src": "cell line: Lung cancer cell line H647"
+        },
+        "cell_type": {
+            "val": "Mesenchymal",
+            "src": "emt state: Mesenchymal"
+        },
+        "instrument_model": {
+            "val": "Microarray",
+            "src": "label_protocol_ch1: SYBR Green"
+        },
+        "library_strategy": {
+            "val": "Microarray",
+            "src": "type: RNA"
+        },
+        "molecular_analysis_method": {
+            "val": "Microarray",
+            "src": "type: RNA"
+        },
+        "library_name": {
+            "val": "GSM1558116",
+            "src": "geo_accession: GSM1558116"
+        },
+        "platform_id": {
+            "val": "GPL19486",
+            "src": "platform_id: GPL19486"
+        },
+        "GEO_series_id": {
+            "val": [
+                "GSE63819",
+                "GSE63977"
+            ],
+            "src": "series_id: GSE63819, GSE63977"
+        },
+        "sex": {
+            "val": "male",
+            "src": "Sex: male"
+        }
+    },
+    "GSM8339783": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "source_name_ch1: Lung tumor cell line"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "source_name_ch1: Lung tumor cell line"
+        },
+        "primary_diagnosis": {
+            "val": "Adenocarcinoma, NOS",
+            "src": "cell type: lung adenocarcinoma"
+        },
+        "disease_type": {
+            "val": "Adenomas and Adenocarcinomas",
+            "src": "cell type: lung adenocarcinoma"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: Lung tumor cell line"
+        },
+        "cell_line": {
+            "val": "A549",
+            "src": "cell line: A549"
+        },
+        "cell_type": {
+            "val": "lung adenocarcinoma",
+            "src": "cell type: lung adenocarcinoma"
+        },
+        "instrument_model": {
+            "val": "DNBSEQ-G400",
+            "src": "instrument_model: DNBSEQ-G400"
+        },
+        "library_strategy": {
+            "val": "RNA-Seq",
+            "src": "library_strategy: RNA-Seq"
+        },
+        "molecular_analysis_method": {
+            "val": "RNA Sequencing",
+            "src": "library_strategy: RNA-Seq"
+        },
+        "library_name": {
+            "val": "GSM8339783",
+            "src": "geo_accession: GSM8339783"
+        },
+        "platform_id": {
+            "val": "GPL28038",
+            "src": "platform_id: GPL28038"
+        },
+        "GEO_series_id": {
+            "val": [
+                "GSE270333"
+            ],
+            "src": "series_id: GSE270333"
+        }
+    },
+    "GSM990246": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "age_at_diagnosis": {
+            "val": 68,
+            "src": "age [y]: 68"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "source_name_ch1: Carcinoma of lung, small cell"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "source_name_ch1: Carcinoma of lung, small cell"
+        },
+        "primary_diagnosis": {
+            "val": "Adenocarcinoma, NOS",
+            "src": "histology: Adenocarcinoma"
+        },
+        "disease_type": {
+            "val": "Adenomas and Adenocarcinomas",
+            "src": "histology: Adenocarcinoma"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: Carcinoma of lung, small cell"
+        },
+        "cancer_stage": {
+            "val": "Stage IIIA",
+            "src": "Stage: IIIA"
+        },
+        "instrument_model": {
+            "val": "Microarray",
+            "src": "scan_protocol: Affymetrix 7G scanner"
+        },
+        "library_strategy": {
+            "val": "Microarray",
+            "src": "type: RNA"
+        },
+        "molecular_analysis_method": {
+            "val": "Microarray",
+            "src": "type: RNA"
+        },
+        "library_name": {
+            "val": "GSM990246",
+            "src": "geo_accession: GSM990246"
+        },
+        "platform_id": {
+            "val": "GPL15974",
+            "src": "platform_id: GPL15974"
+        },
+        "GEO_series_id": {
+            "val": [
+                "GSE40275"
+            ],
+            "src": "series_id: GSE40275"
+        },
+        "sex": {
+            "val": "male",
+            "src": "Sex: Male"
+        }
+    },
+    "GSM5914946": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "age_at_diagnosis": {
+            "val": 63,
+            "src": "age: 63"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "tissue: lung"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "tissue: lung"
+        },
+        "primary_diagnosis": {
+            "val": "Adenocarcinoma, NOS",
+            "src": "disease state: lung adenocarcinoma"
+        },
+        "disease_type": {
+            "val": "Adenomas and Adenocarcinomas",
+            "src": "disease state: lung adenocarcinoma"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: Tumor"
+        },
+        "tobacco_smoking_status": {
+            "val": "Current Smoker",
+            "src": "smoking: 1"
+        },
+        "cancer_stage": {
+            "val": "Stage Ia2",
+            "src": "tumor stage: Ia2"
+        },
+        "instrument_model": {
+            "val": "Illumina NovaSeq 6000",
+            "src": "instrument_model: Illumina NovaSeq 6000"
+        },
+        "library_strategy": {
+            "val": "RNA-Seq",
+            "src": "library_strategy: RNA-Seq"
+        },
+        "molecular_analysis_method": {
+            "val": "RNA Sequencing",
+            "src": "library_strategy: RNA-Seq"
+        },
+        "library_name": {
+            "val": "GSM5914946",
+            "src": "geo_accession: GSM5914946"
+        },
+        "platform_id": {
+            "val": "GPL24676",
+            "src": "platform_id: GPL24676"
+        },
+        "GEO_series_id": {
+            "val": [
+                "GSE197346"
+            ],
+            "src": "series_id: GSE197346"
+        },
+        "sex": {
+            "val": "male",
+            "src": "gender: male"
+        }
+    },
+    "GSM4386241": {
+        "organism": {
+            "val": "Homo sapiens",
+            "src": "organism_ch1: Homo sapiens"
+        },
+        "age_at_diagnosis": {
+            "val": 58,
+            "src": "age: 58"
+        },
+        "tissue_or_organ_of_origin": {
+            "val": "Lung, NOS",
+            "src": "tissue: lung adenocarcinoma (LADC)"
+        },
+        "primary_site": {
+            "val": "Bronchus and lung",
+            "src": "tissue: lung adenocarcinoma (LADC)"
+        },
+        "primary_diagnosis": {
+            "val": "Adenocarcinoma, NOS",
+            "src": "tissue: lung adenocarcinoma (LADC)"
+        },
+        "disease_type": {
+            "val": "Adenomas and Adenocarcinomas",
+            "src": "tissue: lung adenocarcinoma (LADC)"
+        },
+        "tissue_type": {
+            "val": "Tumor",
+            "src": "source_name_ch1: BMs from  LADC"
+        },
+        "cell_type": {
+            "val": "bone marrow cells (BM)",
+            "src": "cell type: bone marrow cells (BM)"
+        },
+        "cancer_stage": {
+            "val": "Stage III",
+            "src": "Stage: \u2163"
+        },
+        "instrument_model": {
+            "val": "Microarray",
+            "src": "scan_protocol: Agilent chip scanner"
+        },
+        "library_strategy": {
+            "val": "Microarray",
+            "src": "type: RNA"
+        },
+        "molecular_analysis_method": {
+            "val": "Microarray",
+            "src": "type: RNA"
+        },
+        "library_name": {
+            "val": "GSM4386241",
+            "src": "geo_accession: GSM4386241"
+        },
+        "platform_id": {
+            "val": "GPL20115",
+            "src": "platform_id: GPL20115"
+        },
+        "GEO_series_id": {
+            "val": [
+                "GSE146460",
+                "GSE146461"
+            ],
+            "src": "series_id: GSE146460, GSE146461"
+        },
+        "sex": {
+            "val": "male",
+            "src": "gender: male"
+        }
+    }
+}
