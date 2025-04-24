@@ -9,7 +9,7 @@ This repository contains;
 
 The definition of the **FAIRness score**:
 
-The FAIRness score quantifies the alignment of input metadata with the Genomic Data Commons (GDC) standard. It is calculated as the ratio of harmonized data cells to the total expected cells across sixteen GDC-required variables. The score ranges from 0 to 1, with higher values indicating better compliance and metadata quality.
+The FAIRness score quantifies the alignmentof input metadata with a given data model,such as GDC standard. It is calculated as theratio of harmonized data cells to the totalexpected cells across all required variables(16 for GDC). The score ranges from 0 to 1,with higher values indicating bettercompliance and metadata quality.
 
 ## Dataset Description
 
@@ -25,7 +25,7 @@ Following the [`01_metadata_API_calling.ipynb`](./src/01_metadata_API_calling.ip
 
 ## Calculating FAIRness score
 
-Following the [`02_fairness_score_calculation.ipynb`](./src/02_fairness_score_calculation.ipynb) notebook.
+Following the [`02_fairness_score_calculation.ipynb`](./src/02_fairness_score_calculation_simple.ipynb) notebook.
 
 ## Important Notice
 
