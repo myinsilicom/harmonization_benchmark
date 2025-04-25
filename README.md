@@ -9,7 +9,7 @@ This repository contains;
 
 The definition of the **FAIRness score**:
 
-The FAIRness score quantifies the alignmentof input metadata with a given data model,such as GDC standard. It is calculated as theratio of harmonized data cells to the totalexpected cells across all required variables(16 for GDC). The score ranges from 0 to 1,with higher values indicating bettercompliance and metadata quality.
+The FAIRness score quantifies the alignment of input metadata with a given data model, such as GDC standard. It is calculated as the ratio of harmonized data cells to the total expected cells across all required variables (16 for GDC). The score ranges from 0 to 1,with higher values indicating better compliance and metadata quality.
 
 ## Dataset Description
 
