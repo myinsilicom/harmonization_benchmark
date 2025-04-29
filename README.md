@@ -20,10 +20,11 @@ The dataset includes:
 3. `gdc_meta.json`: The Genomic Data Commons (GDC) standard.
 
 
-## Example Harmonization Benchmark
+## Cancer Harmonization Benchmark
 
-- **Benchmark Name**: Example Harmonization Benchmark
+- **Benchmark Name**: Cancer Harmonization Benchmark
 - **Version**: 1.0
+- **File name**: `gold_standard_20.json`
 - **Data Type**: metadata
 - **Data Model Source**: GDC
 - **Data Model Target**: GDC
