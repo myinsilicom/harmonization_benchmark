@@ -24103,7 +24103,7 @@
       "value_descriptions": []
    },
    "sex": {
-      "description": "Text designations that identify sex. Sex is described as the assemblage of properties that distinguish people on the basis of their societal roles. [Explanatory Comment 1: Identification of gender is based upon self-report and may come from a form, questionnaire, interview, etc.]",
+      "description": "Text designations that identify sex. Sex is described as the assemblage of properties that distinguish people on the basis of their societal roles. [Explanatory Comment 1: Identification of sex is based upon self-report and may come from a form, questionnaire, interview, etc.]",
       "value_names": [
          "female",
          "male",

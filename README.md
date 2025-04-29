@@ -19,6 +19,27 @@ The dataset includes:
 2. `gold_standard_20.json`: The same 20 GEO metadata manually curated by us.
 3. `gdc_meta.json`: The Genomic Data Commons (GDC) standard.
 
+
+## Example Harmonization Benchmark
+
+- **Benchmark Name**: Example Harmonization Benchmark
+- **Version**: 1.0
+- **Data Type**: metadata
+- **Data Model Source**: GDC
+- **Data Model Target**: GDC
+- **Includes Variable Mappings**: true
+- **Includes Value Mappings**: true
+- **Has Hidden Data**: true
+- **Hidden Data Proportion**: 20%
+- **Annotation Method**: Manual by 2 experts
+- **Number of Variables**: 23
+- **Number of Values**: 460
+- **API Submission Supported**: true
+- **Container Submission Supported**: false
+- **License**: CC BY 4.0
+- **Number of Cases**: 20
+
+
 ## Running API
 
 Following the [`01_metadata_API_calling.ipynb`](./src/01_metadata_API_calling.ipynb) notebook.
