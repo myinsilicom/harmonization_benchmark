@@ -15,16 +15,16 @@ The FAIRness score quantifies the alignment of input metadata with a given data 
 
 The dataset includes:
 
-1. `geo_input_20.json`: The 20 lung cancer-related GEO samples** metadata provided in **JSON format**.
-2. `gold_standard_20.json`: The same 20 GEO metadata manually curated by us.
-3. `gdc_meta.json`: The Genomic Data Commons (GDC) standard.
+1. [`geo_input_20.json`](./data/geo_input_20.json): The 20 lung cancer-related GEO samples** metadata provided in **JSON format**.
+2. [`gold_standard_20.json`](./data/gold_standard_20.json): The same 20 GEO metadata manually curated by us.
+3. [`gdc_meta.json`](./data/gdc_meta.json): The Genomic Data Commons (GDC) standard.
 
 
 ## Cancer Harmonization Benchmark
 
 - **Benchmark Name**: Cancer Harmonization Benchmark
 - **Version**: 1.0
-- **File name**: `gold_standard_20.json`
+- **File name**: [`gold_standard_20.json`](./data/gold_standard_20.json)
 - **Data Type**: metadata
 - **Data Model Source**: GDC
 - **Data Model Target**: GDC
