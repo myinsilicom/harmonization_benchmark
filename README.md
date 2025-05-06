@@ -51,7 +51,7 @@ Following the [`02_fairness_score_calculation.ipynb`](./src/02_fairness_score_ca
 
 ## Important Notice
 
-This benchmark dataset is developed by **Insilicom** and **for ARPA-H BDF program use only**. It is subject to limited release.
+This benchmark dataset is developed by **Insilicom**. It is subject to limited release.
 
 
 ## Contact Information
