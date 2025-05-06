@@ -1,6 +1,6 @@
-# INSILICOM-BDF Benchmark Dataset and FAIRness score
+# INSILICOM Benchmark Dataset and FAIRness score
 
-## Introduction to INSILICOM-BDF Use Case Exercise Materials
+## Introduction to INSILICOM Use Case Exercise Materials
 
 This repository contains;
 
@@ -64,4 +64,4 @@ For questions, please contact:
 ---
 
 2025 **Insilicom LLC**. All Rights Reserved.
-Limited external release for **ARPA-H BDF program** use only.
+Limited external release.
