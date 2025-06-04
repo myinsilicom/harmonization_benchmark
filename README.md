@@ -1,15 +1,15 @@
-# INSILICOM Benchmark Dataset and FAIRness score
+# INSILICOM Benchmark Dataset and Model Alignment Score (MAS)
 
 ## Introduction to INSILICOM Use Case Exercise Materials
 
 This repository contains;
 
 1. An example to run the Insilicom data harmonization API.
-2. Calculate the FAIRness score for the input, API output and the manually curated metadata.
+2. Calculate the MAS score for the input, API output and the manually curated metadata.
 
-The definition of the **FAIRness score**:
+The definition of the **MAS score**:
 
-The FAIRness score quantifies the alignment of input metadata with a given data model, such as GDC standard. It is calculated as the ratio of harmonized data cells to the total expected cells across all required variables (16 for GDC). The score ranges from 0 to 1,with higher values indicating better compliance and metadata quality.
+The MAS score quantifies the alignment of input metadata with a given data model, such as GDC standard. It is calculated as the ratio of harmonized data cells to the total expected cells across all required variables (16 for GDC). The score ranges from 0 to 1,with higher values indicating better compliance and metadata quality.
 
 ## Dataset Description
 
