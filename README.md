@@ -47,7 +47,7 @@ Following the [`01_metadata_API_calling.ipynb`](./src/01_metadata_API_calling.ip
 
 ## Calculating FAIRness score
 
-Following the [`02_fairness_score_calculation.ipynb`](./src/02_fairness_score_calculation_simple.ipynb) notebook.
+Following the [`02_MAS_score_calculation.ipynb`](./src/02_MAS_score_calculation_simple.ipynb) notebook.
 
 ## Important Notice
 
