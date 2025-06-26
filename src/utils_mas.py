@@ -1,4 +1,4 @@
-# This file contains utility functions for processing metadata and calculating fairness score.
+# This file contains utility functions for processing metadata and calculating mas score.
 
 
 import json
@@ -158,10 +158,10 @@ def compute_matches(df: pd.DataFrame, meta_values: Dict, numeric_cols: Set[str])
     return counts
 
 
-def calculate_fairness_score(counts: Dict, total_required: int, num_rows: int) -> float:
+def calculate_mas_score(counts: Dict, total_required: int, num_rows: int) -> float:
 
     """
-    Calculate the fairness score.
+    Calculate the mas score.
     """
 
     total_count = sum(counts.values())
@@ -169,11 +169,11 @@ def calculate_fairness_score(counts: Dict, total_required: int, num_rows: int) -
     return total_count / total_cells if total_cells > 0 else 0.0
 
 
-def assess_data_fairness(input_path: str, 
+def assess_data_mas(input_path: str, 
                          meta_path: str,
                          file_type: str = "csv") -> Tuple[pd.DataFrame, float]:
     """
-    Main function that processes metadata and returns a counts DataFrame and fairness score.
+    Main function that processes metadata and returns a counts DataFrame and mas score.
     
     Parameters:
     -----------
@@ -188,7 +188,7 @@ def assess_data_fairness(input_path: str,
     --------
     Tuple[pd.DataFrame, float]
         - DataFrame with counts of matched variables
-        - Fairness score (float between 0 and 1)
+        - mas score (float between 0 and 1)
         
     Raises:
     -------
@@ -218,7 +218,7 @@ def assess_data_fairness(input_path: str,
     
     df_processed = process_input_dataframe(df_raw, filtered_meta)
     
-    # Compute metadata values and fairness score
+    # Compute metadata values and mas score
     meta_values = precompute_gdcmeta_values(filtered_meta, set(df_processed.columns))
     numeric_cols = {"age_at_diagnosis", "days_to_follow_up"}
     counts = compute_matches(df_processed, meta_values, numeric_cols)
@@ -228,7 +228,7 @@ def assess_data_fairness(input_path: str,
     counts_df['Total counts'] = counts_df['Variable'].map(lambda col: df_processed[col].notna().sum())
     counts_df = counts_df.sort_values(by="Variable")
 
-    # Calculate fairness score
-    fairness_score = calculate_fairness_score(counts, len(gdc_required_var), df_raw.shape[0])
+    # Calculate mas score
+    mas_score = calculate_mas_score(counts, len(gdc_required_var), df_raw.shape[0])
     
-    return counts_df, fairness_score
+    return counts_df, mas_score
